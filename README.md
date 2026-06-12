@@ -14,6 +14,8 @@
 
 `vite-plugin-vue-inspector-ai` 是一个面向 Vue 3 / Nuxt 3 的开发时调试插件，用来在浏览器里快速定位组件源码。
 
+当前版本按 `peerDependencies` 声明支持 `Vite 7+`。
+
 这个分支相对原版主要增强了两点：
 
 - 复制组件位置信息时，包含起始行和结束行
